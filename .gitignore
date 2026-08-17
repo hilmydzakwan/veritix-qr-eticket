@@ -1,0 +1,30 @@
+# Dependencies
+backend/node_modules/
+frontend/node_modules/
+
+# Environment & secrets
+backend/.env
+.env
+.env.local
+
+# RSA keys (private key untuk digital signature)
+backend/rsa-keys.json
+
+# Database (berisi data peserta asli)
+backend/tickets.db
+backend/*.db
+
+# ngrok
+ngrok.exe
+ngrok
+
+# Build output
+frontend/dist/
+
+# Editor
+.vscode/
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*

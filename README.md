@@ -113,10 +113,4 @@ lalu buka `<url>/admin` dari HP untuk melakukan scan QR.
 6. Sistem memverifikasi hash SHA-256, RSA signature, dan token waktu.
    Jika valid, tiket diubah statusnya menjadi "used".
 
-## Anggota Kelompok
-
-- Muhammad Hilmy Aldzakwan — 2023310066
-- Novita Kharisma Nurul Azizah — 2023310050
-- Farouk Ardhi Wijaya — 2023310097
-
 Dosen Pengampu: Dr. Ir. Saludin Muis, M.Kom

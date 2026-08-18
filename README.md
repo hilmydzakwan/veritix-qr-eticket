@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/logo-veritix.png" alt="VeriTix Logo" width="180"/>
+<img src="docs/logo-veritix.png" alt="VeriTix Logo" width="200"/>
 
 # VeriTix: Forgery-Resistant QR E-Ticket System
 

@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="docs/logo-veritix.png" alt="VeriTix Logo" width="280"/>
-
 # VeriTix: Forgery-Resistant QR E-Ticket System
 
 ![Node.js](https://img.shields.io/badge/Node.js-Express-green)
